@@ -5,7 +5,7 @@
 Me chamo Vuvu Félix Miguel João, tenho 20 anos e sou natural de Luanda. Concluí o ensino médio no Instituto Politécnico Industrial de Luanda (IPIL), com o curso técnico de Energias Renovaveis. Atualmente, estou cursando engenharia Informática no ISTIC. Sou apaixonado por tecnologia e recentemente abrí o meu canal no YouTube "[Dev Félix](https://www.youtube.com/@VuvuFélix-e7h)", onde compartilho meu conhecimento e ensino a criar projetos web.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@VuvuFélix-e7h?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
